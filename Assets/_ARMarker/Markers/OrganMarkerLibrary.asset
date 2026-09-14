@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: OrganMarkerLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4928319314596136141
+  m_GuidHigh: 16404559068966144916
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5062027680910144229
+      m_GuidHigh: 9743734910225769621
+    m_SerializedTextureGuid:
+      m_GuidLow: 14146976530813271930
+      m_GuidHigh: 12966044050364236488
+    m_Size: {x: 0.15, y: 0.22048333}
+    m_SpecifySize: 1
+    m_Name: brain_marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4894423884795187433
+      m_GuidHigh: 18251033442516386709
+    m_SerializedTextureGuid:
+      m_GuidLow: 10526162074994855377
+      m_GuidHigh: 1544718407833439035
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: liver_marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4689280268493046197
+      m_GuidHigh: 18193917616710355093
+    m_SerializedTextureGuid:
+      m_GuidLow: 14687638499338088022
+      m_GuidHigh: 7815501211169971064
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: heart_marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5666806898262633919
+      m_GuidHigh: 16013653686352165258
+    m_SerializedTextureGuid:
+      m_GuidLow: 1924332909332178609
+      m_GuidHigh: 10831092873243742856
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: kidney_marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5106633253836610754
+      m_GuidHigh: 209766145512027324
+    m_SerializedTextureGuid:
+      m_GuidLow: 37157159367678223
+      m_GuidHigh: 16753206590162205433
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: lung_marker
+    m_Texture: {fileID: 0}

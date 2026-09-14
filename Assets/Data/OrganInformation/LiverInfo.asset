@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa6e19cfc6944f42a3cb999ff4499bd, type: 3}
+  m_Name: LiverInfo
+  m_EditorClassIdentifier: Assembly-CSharp::OrganInfoData
+  organName: Liver
+  overview: The liver is a large, meaty organ sitting on the right side of the belly
+    that is essential for digesting food and ridding the body of toxic substances.
+  structure: "\u2022\tTwo main lobes (right and left)\r\n\u2022\tHepatic artery and
+    portal vein\r\n\u2022\tBiliary tree"
+  organFunction: "\u2022\tFilters toxins from the blood\r\n\u2022\tProduces bile
+    for digestion"
+  didYouKnow: The liver is the only organ in the human body that can regenerate itself
+    completely from as little as 25% of its original tissue.

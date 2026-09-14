@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa6e19cfc6944f42a3cb999ff4499bd, type: 3}
+  m_Name: LungsInfo
+  m_EditorClassIdentifier: Assembly-CSharp::OrganInfoData
+  organName: Lungs
+  overview: The lungs are a pair of spongy, air-filled organs located on either side
+    of the chest that are responsible for respiration.
+  structure: "\u2022\tLobes (Right has 3, Left has 2)\r\n\u2022\tBronchi and bronchioles\r\n\u2022\tAlveoli"
+  organFunction: "\u2022\tFacilitates gas exchange\r\n\u2022\tOxygenates blood and
+    removes carbon dioxide"
+  didYouKnow: If you flattened out all the alveoli in your lungs, they would cover
+    an area roughly the size of a tennis court.

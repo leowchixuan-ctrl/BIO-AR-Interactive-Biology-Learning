@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 4755b35b590504809a7525fd2109c2e2
+  - enabled: 0
+    path: Assets/Scenes/LIverScene.unity
+    guid: 79fab1d1d2cb1ef43be20eebb318a26c
+  - enabled: 1
+    path: Assets/Scenes/01_Splash.unity
+    guid: 8680a7fb920381a4bad521a10896b84e
+  - enabled: 1
+    path: Assets/Scenes/UserGuide.unity
+    guid: 64806aacb692a8441ac63acaa909b647
+  - enabled: 1
+    path: Assets/Scenes/02_Home.unity
+    guid: 50f3142ca53d2a245a4b919cc0c96dd6
+  - enabled: 1
+    path: Assets/Scenes/03_Scanner.unity
+    guid: f670061c1f418f44e8e844c52fb29906
+  - enabled: 1
+    path: Assets/Scenes/04_ARDisplay.unity
+    guid: 975ac70613663134f873e8698112df0a
+  - enabled: 1
+    path: Assets/Scenes/05_OrganInfo.unity
+    guid: bd930001fcb7849468aa1035163a19c1
+  - enabled: 1
+    path: Assets/Scenes/06_Quiz.unity
+    guid: 8ea660fc84b8230469c9e36d63e6bb51
+  - enabled: 1
+    path: Assets/Scenes/07_Summary.unity
+    guid: fff112928e701e14fb33ce7bd5bf650f
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c199e683398494f32b4cde18e73ab731, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 0b53a025a635a4393ba0b49822242280, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b07c4ba7650be4c25b3d0c497e7e2bb8, type: 2}

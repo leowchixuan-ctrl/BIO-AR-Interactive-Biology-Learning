@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa6e19cfc6944f42a3cb999ff4499bd, type: 3}
+  m_Name: KidneysInfo
+  m_EditorClassIdentifier: Assembly-CSharp::OrganInfoData
+  organName: Kidneys
+  overview: The kidneys are two bean-shaped organs, each about the size of a fist,
+    responsible for filtering waste and excess fluid from the blood.
+  structure: "\u2022\tRenal cortex and medulla\r\n\u2022\tNephrons\r\n\u2022\tRenal
+    pelvis and ureter"
+  organFunction: "\u2022\tFilters waste from blood\r\n\u2022\tRegulates fluid and
+    electrolyte balance"
+  didYouKnow: Your kidneys filter around 200 quarts of fluid every 24 hours, which
+    produces about 1 to 2 quarts of urine.

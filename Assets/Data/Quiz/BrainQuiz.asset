@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f010db25c0c78de4da7176b9844008bb, type: 3}
+  m_Name: BrainQuiz
+  m_EditorClassIdentifier: Assembly-CSharp::OrganQuizData
+  organName: Brain
+  questions:
+  - question: Which part of the brain controls balance and coordination?
+    answers:
+    - Cerebrum
+    - Cerebellum
+    - Brainstem
+    - Neuron
+    correctAnswerIndex: 1
+  - question: What is one of the brain's main functions?
+    answers:
+    - Produces urine
+    - Pumps blood
+    - Produces bile
+    - Controls body activities and processes information
+    correctAnswerIndex: 3
+  - question: The human brain generates enough electrical activity to power approximately
+      what?
+    answers:
+    - A television
+    - A refrigerator
+    - ' A small lightbulb'
+    - A laptop
+    correctAnswerIndex: 2

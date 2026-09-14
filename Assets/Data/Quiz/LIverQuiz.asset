@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f010db25c0c78de4da7176b9844008bb, type: 3}
+  m_Name: LIverQuiz
+  m_EditorClassIdentifier: Assembly-CSharp::OrganQuizData
+  organName: Liver
+  questions:
+  - question: What is one of the liver's main functions?
+    answers:
+    - Pumps blood
+    - Filters toxins from the blood
+    - Stores oxygen
+    - Controls movement
+    correctAnswerIndex: 1
+  - question: What does the liver produce to help with digestion?
+    answers:
+    - Insulin
+    - Saliva
+    - Bile
+    - Oxygen
+    correctAnswerIndex: 2
+  - question: What makes the liver unique compared to most other organs?
+    answers:
+    - It has four chambers.
+    - It can regenerate itself.
+    - It pumps blood.
+    - It contains alveoli.
+    correctAnswerIndex: 1
